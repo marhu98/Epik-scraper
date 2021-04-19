@@ -6,7 +6,7 @@ For example, .xyz costs $0.99 the first year, that after that the price increase
 Despite this, .xyz is still one of the cheapest.
 
 ```
-`python main.py
+python main.py
 
 .co.in, 4.49, 8.98, 13.47, 17.96, 22.45, 26.94, 31.43, 35.92, 40.41, 44.9, 672.0
 .net.in, 4.49, 8.98, 13.47, 17.96, 22.45, 26.94, 31.43, 35.92, 40.41, 44.9, 472.0
