@@ -3,3 +3,4 @@
 
 It only takes into consideration the final price, that means not promotions.
 For example, .xyz costs $0.99 the first year, that after that the price increases.
+Despite this, .xyz is still one of the cheapest.
